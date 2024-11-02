@@ -1,0 +1,32 @@
+/* Custom CSS */
+.home-section {
+    background-image: url('images/hoteln.jpeg'); /* Add a suitable background image */
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+}
+
+.home-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.rooms-section .price {
+    color: #ff6347;
+    font-weight: bold;
+}
+
+.amenities-section i {
+    font-size: 2rem;
+    color: #ff6347;
+    margin-bottom: 15px;
+}
+
+.contact-section {
+    background-color: #f9f9f9;
+}
+
+footer {
+    background-color: #333;
+    color: #ccc;
+}
